@@ -18,5 +18,5 @@ venv/
 Thumbs.db
 
 # Dataset
+.data/
 data/
-outputs/
